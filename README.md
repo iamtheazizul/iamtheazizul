@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iamtheazizul
 - 👀 I’m interested in Computer Graphics
-- 🌱 I’m currently learning CS50X
-- 💞️ I’m looking to collaborate on the CS50 Course
-- 📫 How to reach me (here)
+- 🌱 I’m currently learning Full STack Web Development
+- 💞️ I’m looking to collaborate with people who are also learning
+- 📫 How to reach me? - @iamtheazizul on any social media
 
 <!---
 iamtheazizul/iamtheazizul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
