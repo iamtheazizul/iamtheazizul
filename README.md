@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iamtheazizul
-- 👀 I’m interested in Computer Graphics
-- 🌱 I’m currently learning Full STack Web Development
-- 💞️ I’m looking to collaborate with people who are also learning
+- 👋 Hi, I’m Azizul H.A.
+- 👀 I’m interested in Software and Mobile App Development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate with people who want to build something creative
 - 📫 How to reach me? - @iamtheazizul on any social media
 
 <!---
