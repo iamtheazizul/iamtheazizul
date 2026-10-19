@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Azizul H.A.
-- 👀 I’m interested in Software and Mobile App Development
-- 🌱 I’m currently learning VanillaJS and ReactJS
-- 💞️ I’m looking to collaborate with people who want to build something creative because creative thought matters
+- 👀 I’m interested in AI, Software and XR Development
+- 🌱 I’m currently learning Agentic Orchestration
+- 💞️ I’m looking to collaborate with people who want to build something impactful
 - 📫 How to reach me? - @iamtheazizul on any social media
 
 <!---
